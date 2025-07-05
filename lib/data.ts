@@ -3000,6 +3000,362 @@ export const initailMessage = {
         Legal Rights	How do I claim my rights? Where do I file complaints?
         Humanitarian Aid	What aid/support is available during emergencies in conflict zones ?
 
+        #######################################################################################################
+
+                1. Learning Loss & Basic Literacy/Numeracy
+        “How can we help students catch up on reading and math post COVID?”
+        Many communities saw steep drops in test scores, especially in early grades Struggling to Catch Up in Reading and Math After COVID?
+
+        Chatbot response: You're Not Alone – And We’re Here to Help.
+        What’s the Problem?
+        Since COVID-19 disrupted education worldwide, many students—especially in early grades—have fallen behind in reading and math. Some missed classes. Others had no internet or learning materials at home. And many just couldn’t keep up in online school.
+        As a result, test scores dropped, learning gaps widened, and even now, many students are still trying to catch up.
+        Why Did This Happen?
+        The truth is simple: when students don’t have enough time or support to learn, they fall behind.
+        Experts call this the “opportunity to learn” problem. If students aren’t given a fair chance—through quality teaching, good resources, or a safe environment—they’re less likely to succeed.
+        But it’s not the students’ fault. The problem lies in the systems that failed to prepare, support, and include every child—especially during a global crisis.
+        What’s the Hidden Cost?
+        •	A child who can’t read by age 10 struggles in every subject.
+        •	Poor math skills make it harder to think critically and solve real-life problems.
+        •	The longer students are behind, the harder it is to catch up—and the bigger the risk of giving up altogether.
+        And Here's What People Often Miss
+        Critics of the “opportunity to learn” idea say:
+        •	It focuses too much on school time, and not enough on home life, community, or emotional stress.
+        •	It assumes all students learn the same way or at the same pace.
+        •	It often overlooks the voices of students and parents, especially in underrepresented communities.
+        That’s where we come in.
+            Our AI Platform: Personalized Help That Meets You Where You Are
+        We understand that every child, parent, or teacher has a different story. So our AI doesn’t offer one-size-fits-all answers. Instead, we give:
+        Personalized Roadmaps
+        Our smart system listens to your specific challenge—whether it’s your child’s reading level, a gap in math skills, or lack of resources—and offers step-by-step support.
+        Tools for Parents, Teachers & Students
+        We suggest local resources, online tutors, printable learning sheets, video guides, and custom learning plans—so you can act fast.
+        Real Talk, Real Advice
+        We break down the root causes of learning loss in everyday language and show you what you can do today, even without extra money, tutors, or tech.
+        Built on Wisdom + Technology
+        Our AI combines real research with critical thinking. It learns from your feedback, challenges blind spots in education theories, and offers practical, empowering solutions—not just more blame or empty slogans.
+
+        What You Can Do Right Now
+        •	Ask our AI a question: “How do I help my 9-year-old catch up in reading?”
+        •	 Try a free numeracy check-up and get a simple action plan.
+        •	 Explore how to track progress without pressure or judgment.
+        •	 Learn how to work with teachers or start a parent-led study group.
+        •	 Discover where your child stands—and what’s next.
+        
+        Let’s Move from Falling Behind to Moving Ahead—Together.
+        The education system may not always give your child the opportunity they deserve—but you still can.
+        Let our AI platform be your guide, your toolbox, and your voice of support in the journey to rebuild strong foundations in reading, math, and confidence.
+        Ready to begin?
+        [Click here to ask your first question] or [Start with a Free Learning Health Check]
+
+
+        •	“Is learning poverty still a crisis?”
+        Yes—worldwide, 57–86% of children struggle with basic reading by age 10 blogs.worldbank.org.
+
+        2. Teacher Capacity & Quality
+        •	“Why aren’t there enough qualified teachers?”
+        Many regions lack trained STEM instructors; teacher prep and ongoing support are insufficient educate-me.co+15blogs.worldbank.org+15theguardian.com+15.
+        •	“How do we retain teachers?”
+        Low pay, burnout, and high turnover are common concerns, prompting calls for better recruitment and support arxiv.org+3ft.com+3codesignframework.com+3.
+        
+        3. Technology & Digital Divide
+        •	“How can we address unequal internet/device access?”
+        Students in low-income/rural areas often lack stable connectivity or devices prodigygame.com+15blogs.worldbank.org+15codesignframework.com+1521kschool.com+2teenvogue.com+2edutopia.org+2.
+        •	“What support is needed for effective EdTech use?”
+        Beyond hardware, teachers require training, tech support, and infrastructure to use tech meaningfully blogs.worldbank.org+3prepai.io+3arxiv.org+3edweek.org.
+        
+        4. Online Learning Engagement
+        •	“Why do students struggle with remote learning?”
+        Common issues include isolation, lack of motivation, self-discipline, tech hiccups, and maintaining academic integrity .
+        •	“How to foster interaction and motivation online?”
+        Use regular live check-ins, group tasks, gamification, and teacher availability .
+        
+        5. Equity & Access
+        •	“How do we close education gaps?”
+        Challenges include poverty, conflict, climate disruptions, child labor, bullying, and violence teenvogue.com+11concernusa.org+11theguardian.com+11.
+        •	“What about children with disabilities or special needs?”
+        They need tailored supports, accessible content, inclusive tech, and highly trained staff thetimes.co.uk.
+        
+        6. Funding & Governance
+        •	“Why is school funding so uneven?”
+        Many systems rely on local taxes, resulting in disparities; underfunded districts struggle reddit.com.
+        •	“What reforms are being proposed?”
+        Suggestions include centralizing complaints processes, reforming funding, boosting recruitment, and adopting evidence-based policies theguardian.com+1news.com.au+1thetimes.co.uk.
+        
+        7. Adapting to Workforce Needs
+        •	“Are schools training students for today's jobs?”
+        Critics note gaps in preparing youth for AI, manufacturing, and tech centric roles timesofindia.indiatimes.com.
+        •	“How should online/hybrid schooling evolve?”
+
+
+
+
+
+
+
+
+
+
+
+        Still Single and Wondering Why?
+
+        Let’s Understand the Real Reasons Behind the Struggle to Find Love
+        ________________________________________
+        The Big Question:
+        “Why can’t I find someone?”
+        “Why do my relationships never work?”
+        “Is something wrong with me?”
+        If you've asked yourself these questions, you're not alone. Thousands of people feel stuck, frustrated, or even hopeless about love. Whether you're new to dating or tired of repeating the same patterns, you might feel like real connection is just out of reach.
+        Our AI platform is here to help you understand why—and guide you toward real change.
+
+        What’s Really Going On?
+        Many times, the answer isn’t about being “too much” or “not enough.”
+        It’s about the relationship habits and fears we learned early in life—and how they show up in our dating lives today.
+        This idea comes from the Attachment framework —a way of understanding how we bond with others.
+        The 3 Main Attachment Styles:
+        Attachment Style	Common Dating Patterns
+        Anxious	You want closeness but worry your partner will leave. You often overthink, chase love, or feel you're "too much."
+        Avoidant	You like people at first, but when things get serious, you back away. You fear losing freedom or being hurt.
+        Secure	You're okay with closeness and also okay with space. You feel safe in love and can talk things out.
+
+        So… Why Are You Still Single?
+        You might be repeating the same dating pattern over and over—without even realizing it.
+        For example:
+        •	You fall fast… but scare people off by needing constant reassurance.
+        •	You avoid serious relationships, then wonder why you're always alone.
+        •	You attract people who hurt you, and then blame yourself when it ends.
+        •	You’re afraid to open up because you’ve been hurt before.
+        These are not personality flaws. They're patterns you can understand—and change.
+        But Wait… Isn’t Attachment framework  Just Blaming Your Childhood?
+        Some critics say attachment theory:
+        •	Puts too much weight on your past and not enough on your present choices.
+        •	Labels people into boxes (“anxious” or “avoidant”) without looking at their whole story.
+        •	Ignores culture, trauma, or life events that also shape your relationships.
+        We agree: You're more than a label. That’s why our AI platform blends this theory with real-life insight, flexibility, and compassion.
+        
+        How Our AI Platform Helps You
+        Our platform doesn't just tell you "what type you are"—it helps you take real steps toward finding love that lasts.
+        Personalized Patterns Review
+        Answer a few simple questions, and our AI shows you the habits, fears, and patterns holding you back—based on your unique story.
+        Tools to Change
+        Get custom advice, conversation tips, and reflection prompts to help you build confidence, set healthy boundaries, and attract partners who match your values.
+        Safe Space for Discovery
+        Ask the AI anything. From “How do I stop texting too much?” to “Why do I always pick emotionally unavailable people?”—you’ll get clear, caring answers.
+        Move at Your Own Pace
+        Whether you're dating now, just healing, or feeling lost, our tools adjust to you. There’s no rush. Just progress.
+        Ready to Find the Love You Deserve?
+        Love isn’t just about luck. It’s about learning, healing, and showing up differently—with clarity and confidence.
+        Let’s figure it out together.
+        - [Start with Your Free Relationship Pattern Quiz]
+        - [Ask Our AI a Question About Your Dating Life]
+        - [Build a Personal Plan to Attract the Right Partner]
+        
+        You’re not broken. You're becoming.
+        Let’s turn the question “Why am I still single?” into a new story:
+        “This is how I found love—on my terms.”
+        ________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        “What problems are farmers facing—and how can they fix them?”
+
+        Farming Today Is Tough — But There Are Solutions
+        Understand the Real Problems. Discover Smart, Practical Fixes.
+        
+        What’s Going On?
+        Farmers everywhere are asking the same big question:
+        “Why is farming getting harder—and what can I do about it?”
+        Some face drought. Others deal with floods, pests, soil loss, or poor crop yields. Many say, “I’ve tried everything. What am I missing?”
+        The truth is: it’s not your fault. Farming today is more complex than ever—because the problems are connected.
+        
+        The Real Problem: Everything Is Linked
+        We often look at farming problems one by one:
+        •	Climate change
+        •	Bad soil
+        •	Pests
+        •	Expensive fertilizers
+        •	New tech we don’t understand
+        But these problems are all part of a bigger system. When one thing breaks, others are affected too.
+        That’s what the Socio-Technical Systems (STS) approach teaches us. It says:
+        Farming isn’t just about soil or seeds. It’s about people, tools, weather, knowledge, markets, and policies—all working (or not working) together.
+
+        Let’s Break It Down:
+        Your Question	What’s Really Going On?
+        “How do I handle climate change?”	You need weather knowledge + water-saving tools + support from local leaders.
+        “What stops pests or diseases?”	You need good seeds + safe chemicals + training + early warning info.
+        “Why is my soil getting worse?”	You might need new farming practices + soil testing + long-term land care.
+        “Which technology works for me?”	The best tech is what fits your land, budget, and skills—with local support.
+        
+        But Here’s the Problem with the Theory
+        Critics of this “systems” approach say:
+        •	It’s too complicated—easy to talk about, hard to use in the real world.
+        •	It often misses the voices of small farmers, focusing more on experts or big companies.
+        •	It may suggest change, but doesn’t always offer clear steps for the farmer on the ground.
+        That’s why our platform does things differently.
+        How Our AI Platform Helps You Solve These Problems
+        We bring together science, technology, and your local reality—all in one easy place. Our platform helps you:
+        1. Understand the Full Picture
+        Our AI asks about your land, crops, weather, tools, and daily struggles. Then it explains what’s really going wrong and where the problem is coming from.
+        
+        2. Get Practical, Step-by-Step Help
+        We don’t just give advice—we guide you:
+        •	How to treat your soil
+        •	How to fight pests using smart and safe methods
+        •	How to use simple, affordable tech (even if you’ve never used a drone or app before)
+
+        3. Respect Local Wisdom + New Ideas
+        We believe your knowledge matters. Our tools blend what you already know with new techniques from experts and other farmers like you.
+
+        4. Plan for Both Today and Tomorrow
+        Quick wins are good. But we also help you think long-term:
+        •	How to make your land stronger
+        •	How to save water and money
+        •	How to grow more and waste less
+        
+        Start Here:
+        Ask our AI: “Why are my crops not growing well this season?”
+        Get your personalized farming report
+        Find out which solution fits your soil, weather, and tools
+        Farming Isn’t Just About Working Hard.
+        It’s About Working Smart—With the Right Support.
+        Our AI doesn’t just give answers. It helps you make sense of the whole system—your land, your tools, your climate, your choices—and grow with confidence.
+        [Click Here to Ask Your First Farming Question]
+        [Start with a Free Farm Health Check]
+
+        Let’s fix farming together—one smart step at a time.
+
+
+
+
+
+
+
+
+        The most frequently asked questions online about tough challenges in the health sector tend to focus on access, affordability, data security, and technology:
+        
+        1. How can I get affordable, quality healthcare?
+        Even with insurance, many struggle with:
+        •	Limited providers in their area
+        •	Long wait times
+        •	So-called “insurance hoops” like prior authorizations wired.com+7time.com+7theaustralian.com.au+7axios.com
+        
+        2. Is my health data safe—and who can see it?
+        •	Cyberattacks on hospitals are rising fast 
+        •	Digital records may be vulnerable to leaks, third-party uses, or device tracking 
+        ________________________________________
+        3. How do we solve skyrocketing healthcare costs and staff shortages?
+        •	Costs continue to climb, stressing families and systems audioeye.com+12docresponse.com+12imaginovation.net+12
+        •	Burnout and workforce gaps are piling pressure on hospitals and clinics pmc.ncbi.nlm.nih.gov+15imaginovation.net+15ft.com+15
+        
+        4. How can telehealth and digital tools support patients—especially in rural or underserved areas?
+        •	Telehealth expanded in COVID but faces obstacles like broadband access and security verywellhealth.com
+
+        5. Can health technology truly help without making things worse?
+        •	Digital tools promise efficiency (remote care, health apps), yet bring issues:
+        o	Lack of clear evidence on long-term benefits 
+        o	Privacy risks, usability gaps, and digital divides arxiv.org
+        
+        Why These Questions Matter
+        Area	Why It’s Hard
+        Access & Cost	You may have coverage, but care is often hard to reach or too expensive
+        Data Safety	Hospitals are targets for hacks, and your data might be shared without your knowledge
+        Staff & Burnout	Fewer doctors and nurses = longer waiting times and lower care quality
+        Tech Gaps	Digital tools are helpful—but only when everyone can actually use them safely and effectively
+        
+        What This Means for this  AI Platform
+        This  AI  stands out by offering clear, practical support in these areas:
+        •	Care access navigator: Recommend nearby clinics, virtual care services, or help with insurance questions.
+        •	Patient data security guide: Explain privacy rights, secure tools, and what questions to ask providers.
+        •	Cost & care planning assistant: Help users estimate costs, find financial aid, or suggest telehealth alternatives.
+        •	Digital health coach: Bridge the gap—help users adopt telehealth tools, understand security trade-offs, and stay informed.
+        Struggling with Health Care?
+        It’s Not Just You—And It’s Not Just the Hospital.
+        
+        What’s the Problem?
+        You’ve probably asked:
+        “Why is it so hard to get good, affordable healthcare?”
+        “Why do some people stay sick while others get better faster?”
+        “Why are appointments so far away—or so expensive?”
+        If you've asked any of these questions, you're not alone. Across the world, millions are feeling the same way.
+        
+        Here’s What’s Really Going On
+        Most people think health is only about doctors, hospitals, and medicines. But that’s not the full story.
+        Health experts now know that your health is shaped by much more than medical care. In fact, where you live, how much money you earn, your job, education, and housing situation all affect your health—even before you ever see a doctor.
+        This is called the Social Determinants of Health.
+        
+        Let’s Break It Down with Real-Life Examples
+        Your Health Question	The Hidden Cause
+        “Why can’t I afford treatment?”	Low income, high healthcare costs, no insurance
+        “Why do I live far from a hospital?”	Rural location, lack of transport, poor planning
+        “Why do I always feel stressed or sick?”	Unsafe housing, bad work conditions, no time to rest
+        “Why are some groups more sick than others?”	Racism, inequality, lack of access to quality care
+
+        So, What’s the Real Message?
+        Your health is not just about what you do—it’s also about what’s been done around you.
+        And if the system isn’t fair, your health will suffer—no matter how hard you try.
+
+        But Wait—There Are Problems With This Idea Too
+        Some critics say:
+        •	It’s too broad—how can we fix everything from housing to jobs?
+        •	It may ignore people’s choices—as if individuals have no control.
+        •	Health leaders often talk about “social factors” but don’t act on them.
+        That’s true. Knowing the cause is not enough. What matters is what we do about it—and that’s where your AI platform comes in.
+
+        How Our AI Platform Helps You Take Action
+        We make these big health issues simple, personal, and solvable. Here’s how:
+
+        1. Get Clarity on What’s Affecting You
+        Our smart AI asks about your daily life, not just your symptoms. It helps you see what’s making your health better or worse—from food and stress to transport and money.
+
+        2. Find Real-World Support
+        We connect you to:
+        •	Local clinics and low-cost services
+        •	Financial aid or insurance options
+        •	Community programs for housing, food, or mental health
+        •	Online doctors and telehealth tools if you live far from a hospital
+
+        3. Learn Your Rights
+        We explain—in simple words—what you should expect from your healthcare providers and what to do if you’re being mistreated or ignored.
+        
+        4. Build a Personal Health Plan
+        Whether you’re managing diabetes, anxiety, or just trying to stay healthy, we give you daily tips, reminders, and step-by-step support—all tailored to your lifestyle.
+        
+        Start Here:
+        Ask our AI: “Why can’t I get the care I need?”
+        Get a simple health & lifestyle review
+        Find out what support exists near you—and how to use it
+        
+        Your Health Is About More Than Pills.
+        It’s About Power, Place, and Possibility.
+        Let us help you take back control—not just in the clinic, but in life.
+        [Start Now: Ask a Health Question]
+        [Get a Free Care Access Plan]
+
+        We don’t just answer your health questions—we uncover what’s holding you back, and help you move forward.
+
+
+
+
+
+
+
+
+
             `
         }
     ]
