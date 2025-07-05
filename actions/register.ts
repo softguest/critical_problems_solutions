@@ -41,5 +41,5 @@ export const register = async (values: z.infer<typeof RegisterSchema>) => {
     verificationToken.token,
   );
 
-  return { success: "Your account has been created seccussfully." };
+  return { success: "Your account has been created successfully." };
 };
